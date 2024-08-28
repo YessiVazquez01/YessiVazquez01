@@ -42,9 +42,10 @@ Soy ***Profesora de Matemática*** y ***Técnica en Desarrollo de Software.*** A
 ###
 #
 
-<div align="right">
+## 🌍 Medios de contacto!
+- 📧 ***Email:*** [yessivazquez53@outlook.es](mailto:yessivazquez53@outlook.es)
+- 💼 **LinkedIn**: [https://www.linkedin.com/in/yessica-luciana-vazquez-611569230/](https://www.linkedin.com/in/yessica-luciana-vazquez-611569230/)
+
+  <div align="right">
   <img height="200" src="https://i.pinimg.com/736x/e6/aa/dd/e6aaddc4d750ab2177941fa6216d921c.jpg"  />
 </div>
-
-
-- 📧 ***Email:*** [yessivazquez53@outlook.es](mailto:yessivazquez53@outlook.es)
