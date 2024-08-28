@@ -7,10 +7,10 @@
 
 Soy ***Profesora de Matemática*** y ***Técnica en Desarrollo de Software.*** Actualmente manejo las siguientes tecnologías: *HTML, CSS, PHP, JS, C#, MySQL, PYTHON*
 
-# Tecnologías y Herramientas 💻 🛠
-- **Frontend:** HTML, CSS, BOOTSTRAP
-- **Backend:** PHP, JS
-- **Otros:** C#, SQL, PYTHON, FIGMA
+## Tecnologías y Herramientas 💻 🛠
+- **Frontend:** *HTML, CSS, BOOTSTRAP*
+- **Backend:** *PHP, JS*
+- **Otros:** *C#, SQL, PYTHON, FIGMA*
 
 ###
 
@@ -45,7 +45,7 @@ Soy ***Profesora de Matemática*** y ***Técnica en Desarrollo de Software.*** A
 
 ## 🌍 Medios de contacto!
 - 📧 ***Email:*** [yessivazquez53@outlook.es](mailto:yessivazquez53@outlook.es)
-- 💼 **LinkedIn**: [https://www.linkedin.com/in/yessica-luciana-vazquez-611569230/](https://www.linkedin.com/in/yessica-luciana-vazquez-611569230/)
+- 💼 ***LinkedIn:*** [https://www.linkedin.com/in/yessica-luciana-vazquez-611569230/](https://www.linkedin.com/in/yessica-luciana-vazquez-611569230/)
 
   <div align="right">
   <img height="200" src="https://i.pinimg.com/736x/e6/aa/dd/e6aaddc4d750ab2177941fa6216d921c.jpg"  />
