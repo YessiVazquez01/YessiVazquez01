@@ -1,3 +1,4 @@
+# Bienvenidos a mi GitHub 🐾
 <div align="center">
   <img height="200" src="https://i.pinimg.com/736x/7a/8c/a0/7a8ca0fd9bedaf48a6e2bbd57bc5468e.jpg"  />
 </div>
@@ -40,7 +41,7 @@ Soy ***Profesora de Matemática*** y ***Técnica en Desarrollo de Software.*** A
 </div>
 
 ###
-#
+
 
 ## 🌍 Medios de contacto!
 - 📧 ***Email:*** [yessivazquez53@outlook.es](mailto:yessivazquez53@outlook.es)
