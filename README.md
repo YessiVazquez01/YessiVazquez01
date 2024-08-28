@@ -1,6 +1,6 @@
 # Bienvenidos a mi GitHub 🐾
-<div align="center" style="border-radius:6px;">
-  <img style="margin-bottom: 10px;" height="200" src="https://i.pinimg.com/736x/7a/8c/a0/7a8ca0fd9bedaf48a6e2bbd57bc5468e.jpg"  />
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/736x/7a/8c/a0/7a8ca0fd9bedaf48a6e2bbd57bc5468e.jpg"  />
 </div>
 
 🙌Buenas! Soy [YessiVazquez01] 
@@ -47,6 +47,6 @@ Soy ***Profesora de Matemática*** y ***Técnica en Desarrollo de Software.*** A
 - 📧 ***Email:*** [yessivazquez53@outlook.es](mailto:yessivazquez53@outlook.es)
 - 💼 ***LinkedIn:*** [https://www.linkedin.com/in/yessica-luciana-vazquez-611569230/](https://www.linkedin.com/in/yessica-luciana-vazquez-611569230/)
 
-<div align="center" style="border-radius:6px;">
-  <img style="margin-top: 10px;"  height="200" src="https://i.pinimg.com/736x/e6/aa/dd/e6aaddc4d750ab2177941fa6216d921c.jpg"  />
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/736x/e6/aa/dd/e6aaddc4d750ab2177941fa6216d921c.jpg"  />
 </div>
