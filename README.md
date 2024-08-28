@@ -2,9 +2,14 @@
   <img height="200" src="https://i.pinimg.com/736x/7a/8c/a0/7a8ca0fd9bedaf48a6e2bbd57bc5468e.jpg"  />
 </div>
 
-###
+🙌Buenas! Soy [YessiVazquez01] 
 
-<p align="left">Buenas! Soy [YessiVazquez01] <br>Soy <b>Profesora de Matemática</b> y <b>Técnica en Desarrollo de Software.</b> Actualmente manejo las siguientes tecnologías: HTML, CSS, PHP, JS, C#, MySQL, PYTHON<br><br>## Tecnologías y Herramientas<br><br><b>Frontend:</b> HTML, CSS, BOOTSTRAP<br><b>Backend:</b> PHP, JS<br> <strong>Otros:</strong> C#, SQL, PYTHON, FIGMA</p>
+Soy ***Profesora de Matemática*** y ***Técnica en Desarrollo de Software.*** Actualmente manejo las siguientes tecnologías: *HTML, CSS, PHP, JS, C#, MySQL, PYTHON*
+
+# Tecnologías y Herramientas 💻 🛠
+- **Frontend:** HTML, CSS, BOOTSTRAP
+- **Backend:** PHP, JS
+- **Otros:** C#, SQL, PYTHON, FIGMA
 
 ###
 
@@ -36,12 +41,9 @@
 
 ###
 
-<p align="left"><b>Email:</b> yessivazquez53@outlook.es</p>
-
-###
-
 <div align="right">
   <img height="200" src="https://i.pinimg.com/736x/e6/aa/dd/e6aaddc4d750ab2177941fa6216d921c.jpg"  />
 </div>
 
-###
+
+- 📧 ***Email:*** [yessivazquez53@outlook.es](mailto:yessivazquez53@outlook.es)
