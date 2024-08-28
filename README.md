@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Buenas! Soy Yessi <br>Soy **Profesora de Matemática** y **Técnica en Desarrollo de Software**. Actualmente manejo las siguientes tecnologías: HTML, CSS, PHP, JS, C#, MySQL, PYTHON<br><br>## Tecnologías y Herramientas<br><br>**Frontend:** HTML, CSS, BOOTSTRAP<br>**Backend:** PHP, JS,<br>**Otros:** C#, SQL, PYTHON, FIGMA</p>
+<p align="left">Buenas! Soy Yessi <br>Soy <b>Profesora de Matemática</b> y <b>Técnica en Desarrollo de Software.</b> Actualmente manejo las siguientes tecnologías: HTML, CSS, PHP, JS, C#, MySQL, PYTHON<br><br>## Tecnologías y Herramientas<br><br><b>Frontend:</b> HTML, CSS, BOOTSTRAP<br><b>Backend:</b> PHP, JS,<br><b>Otros:</b> C#, SQL, PYTHON, FIGMA</p>
 
 ###
 
@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">**Email:** yessivazquez53@outlook.es</p>
+<p align="left"><b>Email:</b> yessivazquez53@outlook.es</p>
 
 ###
 
