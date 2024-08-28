@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Buenas! Soy Yessi <br>Soy <b>Profesora de Matemática</b> y <b>Técnica en Desarrollo de Software.</b> Actualmente manejo las siguientes tecnologías: HTML, CSS, PHP, JS, C#, MySQL, PYTHON<br><br>## Tecnologías y Herramientas<br><br><b>Frontend:</b> HTML, CSS, BOOTSTRAP<br><b>Backend:</b> PHP, JS<br> <strong>Otros:</strong> C#, SQL, PYTHON, FIGMA</p>
+<p align="left">Buenas! Soy [YessiVazquez01] <br>Soy <b>Profesora de Matemática</b> y <b>Técnica en Desarrollo de Software.</b> Actualmente manejo las siguientes tecnologías: HTML, CSS, PHP, JS, C#, MySQL, PYTHON<br><br>## Tecnologías y Herramientas<br><br><b>Frontend:</b> HTML, CSS, BOOTSTRAP<br><b>Backend:</b> PHP, JS<br> <strong>Otros:</strong> C#, SQL, PYTHON, FIGMA</p>
 
 ###
 
